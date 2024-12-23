@@ -10,7 +10,7 @@
 
 ## 📊 Статистика репозитория
 
-- **Количество коммитов**: ![Commit Count](https://img.shields.io/github/commits-since/yourusername/yourrepo/master?label=Commits)
-- **Количество открытых issues**: ![Issues](https://img.shields.io/github/issues/yourusername/yourrepo?label=Issues)
-- **Количество pull request'ов**: ![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/yourrepo?label=PRs)
-- **Количество звезд**: ![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+- **Количество коммитов**: ![Commit Count](https://img.shields.io/github/commits-since/MaximHudenkih/First2DGame/master?label=Commits)
+- **Количество открытых issues**: ![Issues](https://img.shields.io/github/issues/MaximHudenkih/First2DGame?label=Issues)
+- **Количество pull request'ов**: ![Pull Requests](https://img.shields.io/github/issues-pr/MaximHudenkih/First2DGame?label=PRs)
+- **Количество звезд**: ![Stars](https://img.shields.io/github/stars/MaximHudenkih/First2DGame?style=social)
